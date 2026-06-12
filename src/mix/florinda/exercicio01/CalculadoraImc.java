@@ -5,7 +5,7 @@
 * altura). Imprima o resultado no console.
 * */
 
-package mix.florinda;
+package mix.florinda.exercicio01;
 
 public class CalculadoraImc {
  public static void main(String[] args) {
